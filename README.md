@@ -24,9 +24,11 @@ The application development team was not able to complete the feature as the gra
 _________________
 
 #### Related Topic
-redis-server Topic: Write one spark script sparkpyrediskafkastreamtoconsole.py to subscribe to the redis-server topic, base64 decode the payload, and deserialize the JSON to individual fields, then print the fields to the console. The data should include the birth date and email address. You will need these.
-stedi-events Topic: Write a second spark script sparkpyeventskafkastreamtoconsole.py to subscribe to the stedi-events topic and deserialize the JSON (it is not base64 encoded) to individual fields. You will need the email address and the risk score.
-stedi-score Topic: Write a spark script sparkpykafkajoin.py to join the customer dataframe and the customer risk dataframes, joining on the email address. Create a JSON output to the newly created kafka topic you created for STEDI to subscribe to that contains at least the fields below:
+* redis-server Topic: Write one spark script sparkpyrediskafkastreamtoconsole.py to subscribe to the redis-server topic, base64 decode the payload, and deserialize the JSON to individual fields, then print the fields to the console. The data should include the birth date and email address. You will need these.
+
+* stedi-events Topic: Write a second spark script sparkpyeventskafkastreamtoconsole.py to subscribe to the stedi-events topic and deserialize the JSON (it is not base64 encoded) to individual fields. You will need the email address and the risk score.
+
+* stedi-score Topic: Write a spark script sparkpykafkajoin.py to join the customer dataframe and the customer risk dataframes, joining on the email address. Create a JSON output to the newly created kafka topic you created for STEDI to subscribe to that contains at least the fields below:
 
 _________________
 
