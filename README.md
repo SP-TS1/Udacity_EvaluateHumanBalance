@@ -22,7 +22,7 @@ stedi-events Topic: Write a second spark script sparkpyeventskafkastreamtoconsol
 stedi-score Topic: Write a spark script sparkpykafkajoin.py to join the customer dataframe and the customer risk dataframes, joining on the email address. Create a JSON output to the newly created kafka topic you created for STEDI to subscribe to that contains at least the fields below:
 
 #### Project Structure
-
+'''
 Evaluate Human Balance
 |____Guide.ipynb
 |____sparkpyrediskafkastreamtoconsole.py    # Spark streaming script
@@ -48,3 +48,4 @@ Evaluate Human Balance
 |____screenshots                            # Application working screenshots
 | |____screenshot 2.jpg
 | |____screenshot 1.jpg
+'''
