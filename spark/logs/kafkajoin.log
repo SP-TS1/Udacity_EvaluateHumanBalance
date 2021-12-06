@@ -1,0 +1,203 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
+| Jerry.Huey@test.com|{"customer":"Jerr...|
+|Spencer.Howard@te...|{"customer":"Spen...|
+|Jerry.Olson@test.com|{"customer":"Jerr...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Travis.Anderson@t...|{"customer":"Trav...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Chris.Harris@test...|{"customer":"Chri...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Chris.Harris@test...|{"customer":"Chri...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
+| Jerry.Huey@test.com|{"customer":"Jerr...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Chris.Harris@test...|{"customer":"Chri...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
+| Jerry.Huey@test.com|{"customer":"Jerr...|
+|Spencer.Howard@te...|{"customer":"Spen...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|Jerry.Gonzalez@te...|{"customer":"Jerr...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Chris.Harris@test...|{"customer":"Chri...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
+| Jerry.Huey@test.com|{"customer":"Jerr...|
+|Spencer.Howard@te...|{"customer":"Spen...|
++--------------------+--------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++--------------------+--------------------+
+|                 key|               value|
++--------------------+--------------------+
+|Edward.Huey@test.com|{"customer":"Edwa...|
+|Craig.Staples@tes...|{"customer":"Crai...|
+|Trevor.Olson@test...|{"customer":"Trev...|
+| Craig.Huey@test.com|{"customer":"Crai...|
+| John.Jones@test.com|{"customer":"John...|
+|Chris.Gonzalez@te...|{"customer":"Chri...|
+|   Frank.Wu@test.com|{"customer":"Fran...|
+|Edward.Doshi@test...|{"customer":"Edwa...|
+|Suresh.Huey@test.com|{"customer":"Sure...|
+|    Eric.Wu@test.com|{"customer":"Eric...|
+|Travis.Anderson@t...|{"customer":"Trav...|
+|Chris.Abram@test.com|{"customer":"Chri...|
+|Jason.Spencer@tes...|{"customer":"Jaso...|
+|Chris.Harris@test...|{"customer":"Chri...|
+|Travis.Lincoln@te...|{"customer":"Trav...|
+| Eric.Doshi@test.com|{"customer":"Eric...|
+|Santosh.Anderson@...|{"customer":"Sant...|
+| Jerry.Huey@test.com|{"customer":"Jerr...|
+|Spencer.Howard@te...|{"customer":"Spen...|
+|Jerry.Olson@test.com|{"customer":"Jerr...|
++--------------------+--------------------+
+only showing top 20 rows
+
